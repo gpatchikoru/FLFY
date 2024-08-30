@@ -21,12 +21,10 @@ nav ul {
 nav ul li {
     margin: 0 15px;
 }
-
 nav ul li a {
     color: #FFF;
     text-decoration: none;
 }
-
 .hero {
     display: flex;
     align-items: center;
